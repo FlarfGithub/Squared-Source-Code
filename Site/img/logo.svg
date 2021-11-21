@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="184.32pt"
+    height="184.32pt"
+    viewBox="0 0 184.32 184.32">
+<defs/>
+<path id="shape0" transform="translate(41.8398667874599, 42.9616835316809)" fill="#178048" fill-rule="evenodd" stroke="#000000" stroke-width="2.88" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.16" d="M3.06 29.7L28.44 2.7L0 0Z"/><path id="shape0" transform="matrix(-0.998942557699227 -0.0459749324424722 0.0459749324424722 -0.998942557699227 141.114677718999 141.358316468319)" fill="#178048" fill-rule="evenodd" stroke="#000000" stroke-width="2.88" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.16000008583069" d="M3.06 29.7L28.44 2.7L0 0Z"/><path id="shape1" transform="matrix(0.923543794280819 0 0 0.923543794280819 67.1086264425923 67.3403059132601)" fill="none" stroke="#000000" stroke-width="14.4" stroke-linecap="round" stroke-linejoin="round" d="M51.6584 5.59315C51.4967 1.93564 27.88 -2.89892 3.82063 2.22806C-1.03858 8.35367 -1.50147 8.57706 3.82063 14.5069C22.9341 24.3484 3.52332 14.4576 27.9884 27.3703C51.2845 41.9947 28.0383 27.7097 51.2881 41.951C55.2836 48.1344 55.1324 48.1565 51.4681 52.391C27.7172 55.453 -0.199772 52.8267 0.0010775 49.5481"/><path id="shape01" transform="matrix(0.923543787038169 0 0 0.923543787038169 67.1086276595986 67.3403061035034)" fill="none" stroke="#178048" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round" d="M51.6584 5.59315C51.4967 1.93564 27.88 -2.89892 3.82063 2.22806C-1.03858 8.35367 -1.50147 8.57706 3.82063 14.5069C22.9341 24.3484 3.52332 14.4576 27.9884 27.3703C51.2845 41.9947 28.0383 27.7097 51.2881 41.951C55.2836 48.1344 55.1324 48.1565 51.4681 52.391C27.7172 55.453 -0.199772 52.8267 0.0010775 49.5481"/>
+</svg>

@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^(.*)\.aspx$ $1 [L]
+
+ErrorDocument 404 /ErrorPages/404.php
+ErrorDocument 400 /ErrorPages/400.php
+ErrorDocument 403 /ErrorPages/403.php
+ErrorDocument 500 /ErrorPages/404.php
+ErrorDocument 503 /ErrorPages/503.php
